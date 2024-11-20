@@ -1,0 +1,39 @@
+#green {
+    background-color: #191C21;
+}
+
+.save__info__edit-profile {
+    padding: 20px;
+    background-color: #191C21;
+    color: #ADBAD7;
+}
+
+.CreateAccountHeader {
+    background-color: #F9F9F9;
+    padding: 29px;
+    display: flex;
+    
+}
+
+.CreateAccountMain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+    gap: 15px;
+    background-color: #fff;
+}
+
+.CreateAccountHeader.dark {
+    background-color: #121214;
+    color: #fff;
+}
+
+.CreateAccountMain.dark {
+    background-color: #121214;
+    color: #fff;
+}
+
+.CreateAccounth3.dark {
+    color: #fff;
+}

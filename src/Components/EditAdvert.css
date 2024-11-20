@@ -1,0 +1,45 @@
+.EditAdvertHeader {
+    background-color: #F9F9F9;
+    padding: 29px;
+    display: flex;
+    
+}
+
+.category-select {
+    background-color: #121214;
+    border: 1px solid #C1C2C7;
+    color:  #FFFFFF;
+    width: 332px;
+    padding: 15px;
+    outline: none;
+    border-radius: 10px;
+}
+
+
+.InputFieldWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    height: 60vh;
+    width: 90vw;
+}
+
+.EditAdverth3 {
+    color: black;
+}
+
+.EditAdverth3.dark {
+    color: #FFFFFF;
+}
+
+
+.ProfileView__title{ 
+    color: #000000;
+}
+
+
+.arrow {
+    width: 14px;
+}
+
+
